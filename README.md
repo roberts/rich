@@ -1,0 +1,2 @@
+# rich
+choose $RICH boy
