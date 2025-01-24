@@ -1,98 +1,118 @@
 /**
  *
  *
-   Contract features:
+   contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
    16% launch sell tax in ETH sent to community, marketing, & developer
-   Function to reduce taxes to 3/3
-   Function to remove taxes
-   Removable anti-whale restrictions of max transaction & max wallet
+   function to reduce taxes to 3/3
+   function to remove taxes
+   removable anti-whale restrictions of max transaction & max wallet
 
-   i have a $DREAM
-   Blockchain $DREAM TEAM
-   https://ihaveadre.am
+   BASEd $RICH Boy wif bitcoin
+   https://richboy.io
  */
 
 /**
  *
  *
-   I am happy to join with you today in what will go down in history as the greatest demonstration for
-   freedom in the history of our nation.
+   Get money
+   New money (Honey been waitin' dawg) Hey!
 
-   Five score years ago a great American in whose symbolic shadow we stand today signed the
-   Emancipation Proclamation. This momentous decree is a great beacon light of hope to millions of Negro
-   slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the
-   long night of their captivity. But 100 years later the Negro still is not free. One hundred years later the
-   life of the Negro is still badly crippled by the manacles of segregation and the chains of discrimination.
-   One hundred years later the Negro lives on a lonely island of poverty in the midst of a vast ocean of
-   material prosperity. One hundred years later the Negro is still languished in the corners of American
-   society and finds himself in exile in his own land. So we’ve come here today to dramatize a shameful
-   condition.
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Throw some D's on that bia
+   Just swapped a token (Throw some)
+   Throw some D's on that bia
+   Just swapped a token
 
-   In a sense we’ve come to our nation’s capital to cash a check. When the architects of our Republic wrote
-   the magnificent words of the Constitution and the Declaration of Independence, they were signing a
-   promissory note to which every American was to fall heir. This note was a promise that all men—yes,
-   black men as well as white men—would be guaranteed the unalienable rights of life, liberty and the
-   pursuit of happiness..
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Throw some D's on that bia
+   Just swapped a token
+   Throw some D's on that bia
+   Just swapped a token
 
-   We must forever conduct our struggle on the high plane of dignity and discipline. We must not allow our
-   creative protests to degenerate into physical violence. . . . The marvelous new militancy which has
-   engulfed the Negro community must not lead us to distrust all white people, for many of our white
-   brothers, as evidenced by their presence here today, have come to realize that their destiny is tied up
-   with our destiny.
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Took it to the chop shop got the damn top drop
+   Two color flip flop, candy red lollipop
+   It's hoes in the parking lot
 
-   ...We cannot walk alone. And as we walk we must make the pledge that we shall always march ahead.
-   We cannot turn back. There are those who are asking the devotees of civil rights, “When will you be
-   satisfied?” We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of
-   police brutality.
+   But I still got my glock cocked
+   New money mothafucka, don't ya see the big dot?
+   Don't see the big chain? Don't ya see the big rims?
+   Wonder who they hatin' on, lately paid for this meal
+   Candy paint, gator skin seats, call me Dundee
+   Pope in ya hood, I'm the boy that ya wanna be
+   Haters wish they could feel the wood in my '83
+   Ridin' with no tints so the mothafucka know it's me
 
-   We can never be satisfied as long as our bodies, heavy with the fatigue of travel, cannot gain lodging in
-   the motels of the highways and the hotels of the cities.
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Throw some D's on that bia
+   Just swapped a token (Throw some)
+   Throw some D's on that bia
+   Just swapped a token
 
-   We cannot be satisfied as long as the Negro’s basic mobility is from a smaller ghetto to a larger one. We
-   can never be satisfied as long as our children are stripped of their adulthood and robbed of their dignity
-   by signs stating “For Whites Only.”
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Throw some D's on that bia
+   Just swapped a token
+   Throw some D's on that bia
+   Just swapped a token
 
-   We cannot be satisfied as long as the Negro in Mississippi cannot vote and the Negro in New York
-   believes he has nothing for which to vote.
+   I never slip, I never fall, a lot of hoes
+   Gimme they numbers, but I never call
+   A real OG, look at VIP and see a nigga ball
+   Then after we hit the club baby I'ma hit them draws
+   Yeah, I'ma break you off, and that's all
+   Every freak should have a picture of my dick on they walls
+   Polow be the shit, zone 4 be the click, yeah this for my dawgs
+   Yeah, gangstas, hustlers, wankstas, bustas
+   (Wait a minute mothafucka)
 
-   No, no, we are not satisfied, and we will not be satisfied until justice rolls down like waters and
-   righteousness like a mighty stream..
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Throw some D's on that bia
+   Just swapped a token (Throw some)
+   Throw some D's on that bia
+   Just swapped a token
 
-   I say to you today, my friends, though, even though we face the difficulties of today and tomorrow, I still 
-   have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this
-   nation will rise up, live out the true meaning of its creed: “We hold these truths to be self-evident, that
-   all men are created equal.”
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Throw some D's on that bia
+   Just swapped a token
+   Throw some D's on that bia
+   Just swapped a token
 
-   I have a dream that one day on the red hills of Georgia sons of former slaves and the sons of former
-   slave-owners will be able to sit down together at the table of brotherhood. I have a dream that one day
-   even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of
-   oppression, will be transformed into an oasis of freedom and justice.
+   Hit the block on some new ten thousand dollar rims
+   Can't explain how I feel, touch the gator on the wheel
+   Got peanut butter ice cream, Peter Pan seats
+   Just got a fresh cut, now we lookin' for the freaks
+   Take a bad yellow bia, make her drop them draws
+   I'ma show ya how to ball, middle finger to the law
+   So fuck them niggaz what they wanna do
+   Hatin' on a playa 'cause my 'lac skatin' 22's
 
-   I have a dream that my four little children will one day live in a nation where they will not be judged by
-   the color of their skin but by the content of their character. I have a dream . . . I have a dream that one
-   day in Alabama, with its vicious racists, with its governor having his lips dripping with the words of
-   interposition and nullification, one day right there in Alabama little black boys and black girls will be able
-   to join hands with little white boys and white girls as sisters and brothers.
-   I have a dream today..
+   When I pull up I'ma park right at the front
+   Pourin' lean in my cup, got purp in my blunt
+   I'ma real pimp, bia, I ain't playin' like a trick
+   Just swapped a new 'lac and put them thangs on that bia
 
-   This will be the day when all of God’s children will be able to sing with new meaning. “My country, ’tis of
-   thee, sweet land of liberty, of thee I sing. Land where my fathers died, land of the pilgrim’s pride, from
-   every mountain side, let freedom ring.” And if America is to be a great nation, this must become true. So
-   let freedom ring from the prodigious hilltops of New Hampshire. Let freedom ring from the mighty
-   mountains of New York. Let freedom ring from the heightening Alleghenies of Pennsylvania. Let
-   freedom ring from the snowcapped Rockies of Colorado. Let freedom ring from the curvaceous slopes of
-   California.
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Throw some D's on that bia
+   Just swapped a token (Throw some)
+   Throw some D's on that bia
+   Just swapped a token
 
-   But not only that. Let freedom ring from Stone Mountain of Georgia. Let freedom ring from Lookout
-   Mountain of Tennessee. Let freedom ring from every hill and molehill of Mississippi, from every
-   mountain side. Let freedom ring..
-
-   When we allow freedom to ring—when we let it ring from every city and every hamlet, from every state
-   and every city, we will be able to speed up that day when all of God’s children, black men and white
-   men, Jews and Gentiles, Protestants and Catholics, will be able to join hands and sing in the words of the
-   old Negro spiritual, “Free at last, Free at last, Great God a-mighty, We are free at last.”
+   $RICH Boy sellin' crack, broke niggaz wanna jack
+   Shit tight, no slack just swapped a token
+   Throw some D's on that bia
+   Just swapped a token
+   Throw some D's on that bia
+   Just swapped a token
  */
 
 
@@ -1222,7 +1242,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
     ) external;
 }
 
-contract Dream is ERC20, Ownable {
+contract Rich is ERC20, Ownable {
     using SafeMath for uint256;
 
     IUniswapV2Router02 public immutable uniswapV2Router;
@@ -1231,7 +1251,7 @@ contract Dream is ERC20, Ownable {
         address(0x000000000000000000000000000000000000dEaD);
 
     string public exchangeLink = "https://app.uniswap.or/swap";
-    string public websiteLink = "https://ihaveadre.am";
+    string public websiteLink = "https://richboy.io";
 
     address public communityWallet;
     address public marketingWallet;
@@ -1285,7 +1305,7 @@ contract Dream is ERC20, Ownable {
         address indexed oldWallet
     );
 
-    constructor() ERC20("i have a $DREAM", "DREAM") {
+    constructor() ERC20("BASEd $RICH Boy wif bitcoin", "RICH") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
