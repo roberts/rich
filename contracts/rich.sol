@@ -9,7 +9,7 @@
    function to remove taxes
    removable anti-whale restrictions of max transaction & max wallet
 
-   BASEd $RICH Boy wif bitcoin
+   choose $RICH boy
    https://richboy.io
  */
 
@@ -1305,7 +1305,7 @@ contract Rich is ERC20, Ownable {
         address indexed oldWallet
     );
 
-    constructor() ERC20("BASEd $RICH Boy wif bitcoin", "RICH") {
+    constructor() ERC20("choose $RICH boy", "RICH") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
